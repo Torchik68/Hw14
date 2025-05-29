@@ -9,4 +9,4 @@
 
 ці кукі були створені за допомогою ysoseria
 
-![ysoseria](screenshots/Cookie)
+![ysoseria](screenshots/Cookie.png)
